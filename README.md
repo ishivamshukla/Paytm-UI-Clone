@@ -12,7 +12,7 @@
 
 ![HTML](https://img.shields.io/badge/html-3670A0?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%234ea94b.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%234ea94b.svg?style=for-the-badge&logo=tailwindcss3&logoColor=green)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0f172a.svg?style=for-the-badge&logo=tailwindcss3&logoColor=white)
 
 ---
 
